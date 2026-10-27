@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#e2dedb"/>
+<circle cx="965" cy="160" r="140" fill="#d4653b" opacity=".18"/>
+<circle cx="170" cy="655" r="210" fill="#d4653b" opacity=".12"/>
+<path d="M0 670 L1200 370 L1200 800 L0 800 Z" fill="#17212b" opacity=".06"/>
+<text x="70" y="120" font-family="Arial, sans-serif" font-size="34" fill="#d4653b" font-weight="700">PROJECT 04</text>
+<text x="70" y="175" font-family="Arial, sans-serif" font-size="24" fill="#17212b" opacity=".66">System Improvement Study</text>
+</svg>
